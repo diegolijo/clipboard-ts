@@ -1,0 +1,1 @@
+{"path":"C:\\CLIPBOARD","shortcut":[3675,29],"stkeys":["win","ctrl"],"Schtasks":"schtasks /Create /TN historial_clipboard /XML clipboard.xml","SchtasksDelete":"schtasks /delete /TN historial_clipboard /f","quick_folder":"E:\\programacion","createdTaskOk":true}
